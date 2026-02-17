@@ -3,9 +3,6 @@
 # Hardware-Accelerated KNN Classifier on FPGA 🚀
 
 A real-time, hardware-accelerated **K-Nearest Neighbors (KNN)** classification engine implemented entirely in Verilog on the **Xilinx ZedBoard**. This project features a custom-built SPI driver for OLED visualization and a pipelined distance calculation core.
-
-
-
 * **Hardware Acceleration:** Parallel processing of distance calculations and sorting logic.
 * **Custom OLED Driver:** Light-weight, state-machine-driven SPI interface for SSD1306 displays.
 * **Interactive Interface:** Uses ZedBoard switches and buttons for real-time user input.
