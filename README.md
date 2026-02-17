@@ -1,5 +1,3 @@
-Here is a professional, hackathon-ready **README.md**. Copy and paste this directly into your GitHub repository or presentation slide.
-
 ---
 
 # Hardware-Accelerated KNN Classifier on FPGA 🚀
@@ -69,4 +67,4 @@ The system is composed of five main modules:
 
 ---
 
-*Built for the [Hackathon Name] 2025.*
+*Built for the D2S 2025.*
