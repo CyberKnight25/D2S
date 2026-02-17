@@ -67,4 +67,4 @@ The system is composed of five main modules:
 
 ---
 
-*Built for the [Hackathon Name] 2025.*
+*Built for the D2S 2025.*
